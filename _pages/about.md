@@ -14,6 +14,6 @@ I studied Computer Science at University of Padua, Italy where I graduated in 20
 Before joining Novoda I worked at i’m Spa, an Italian startup where I had the chance to play with the Android platform while developing one of the first smartwatches on the market.
 
 I am an active member of the Android community, contributing with blogposts, online video courses, conferences speaking and meet-ups worldwide. You can find my talks on [Speaker Deck](https://speakerdeck.com/danybony/). 
-Beaing so active allowed be to become a [Google Developers Expert](https://developers.google.com/experts/people/daniele-bonaldo) with specializations in Android, IoT and Wearables.
+Being so active allowed me to become a [Google Developers Expert](https://developers.google.com/experts/people/daniele-bonaldo) with specializations in Android, IoT and Wearables.
 
 While I'm not programming or building some IoT device, I love to travel and narrate the world through the eye of my camera.
