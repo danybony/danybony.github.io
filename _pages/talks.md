@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <ul>
- 	<li> <b>DevFest Veneto</b>
+ 	<li> <b>DevFest1 Veneto</b>
  	 	<br>December 2017
  	 	<br>Introduction to Google Assistant and Actions on Google Codelab
  	</li>
