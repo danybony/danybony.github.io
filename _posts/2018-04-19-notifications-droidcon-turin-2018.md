@@ -11,5 +11,9 @@ In this talk, presented at **Droidcon Turin 2018**, I illustrated the evolution 
 
 I presented then how developers can customize both appearance and interaction mechanisms in order to give users the best way of accessing important information and perform quick actions at a glance.
 
+<figure>
+	<a href="/assets/images/notifications_droidcon_turin_2018.jpg"><img src="/assets/images/notifications_droidcon_turin_2018_small.jpg" alt="Me, on stage of Droidcon Turin"></a>
+</figure>
+
 Here the slides for the talk:
 <script async class="speakerdeck-embed" data-id="de5e6bc5558b4da0b5f80fb8b6ee7fe5" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
