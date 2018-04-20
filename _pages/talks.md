@@ -8,6 +8,11 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>Droidcon Turin</b>
+ 	 	<br>April 2018
+ 	 	<br>History of Android notifications and current possibilities for developer when creating them
+ 	 	<br>Hands-on workshop on how to build a weather station using Android Things
+ 	</li>
  	<li> <b>DevFest1 Veneto</b>
  	 	<br>December 2017
  	 	<br>Introduction to Google Assistant and Actions on Google Codelab
