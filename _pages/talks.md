@@ -1,7 +1,7 @@
 ---
-title: "Talks"
+title: "Public speaking"
 layout: single
-excerpt: "Some of the public events talking I've done."
+excerpt: "Some of the public talks I've done."
 sitemap: false
 permalink: /talks.html
 author_profile: true
