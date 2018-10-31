@@ -7,7 +7,7 @@ permalink: /about.html
 author_profile: true
 ---
 
-I am passionate about technology, I work as an Android developer at [Novoda](https://www.novoda.com) and I am a Google Developer Expert.
+I am passionate about technology, I work as an Android developer for [Novoda](https://www.novoda.com) and I am a [Google Developer Expert](https://developers.google.com/experts/people/daniele-bonaldo).
 
 I studied Computer Science at University of Padua, Italy where I graduated in 2011. The final project for my MSc was focused on Mobile Ad-hoc networks and was published and presented at [2011 IFIP Wireless Days](http://ieeexplore.ieee.org/document/6098142).
 
