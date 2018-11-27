@@ -8,6 +8,10 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>DevFest Veneto</b>
+ 	 	<br>November 2018
+ 	 	<br>An introduction to Android Things and Google Photos API
+ 	</li>
  	<li> <b>DevFest Gorky, Nizhny Novgorod</b>
  	 	<br>October 2018
  	 	<br>An introduction to Android Things and Google Photos API, using a real project (an Android Things photo booth) as example
