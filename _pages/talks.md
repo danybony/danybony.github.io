@@ -8,6 +8,11 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>Programmers in Padua</b>
+ 	 	<br>January 2019
+ 	 	<br>An introduction to Flutter
+ 	 	<br><a href="/flutter-intro-pip/">More info</a>
+ 	</li>
  	<li> <b>DevFest Veneto</b>
  	 	<br>November 2018
  	 	<br>An introduction to Android Things and Google Photos API
