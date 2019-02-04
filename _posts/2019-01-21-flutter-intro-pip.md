@@ -24,3 +24,8 @@ While the audience is not only mobile-centric, I thought that Flutter could be a
 These are the slides for the presentation I gave:
 
 <script async class="speakerdeck-embed" data-id="5980329c915e45d8a9ce4dd55ae661d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>
+And this is the recording (in Italian):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IYCTjE4ZMEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
