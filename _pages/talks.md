@@ -8,6 +8,16 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>Droidcon Italy</b>
+ 	 	<br>April 2019
+ 	 	<br>The making of an Android library: Download Manager v2
+		<br>How to get started creating a library, what are the difficulties we encountered and finally how to publish and share the library between multiple projects
+ 	 	<br><a href="/download-manager-droidcon-italy/">More info</a>
+ 	</li>
+ 	<li> <b>Noonic Lunch and Learn</b>
+ 	 	<br>March 2019
+ 	 	<br>How we work remote at Novoda
+ 	</li>
  	<li> <b>Programmers in Padua</b>
  	 	<br>January 2019
  	 	<br>An introduction to Flutter
