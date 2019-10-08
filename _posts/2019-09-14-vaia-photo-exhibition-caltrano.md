@@ -2,7 +2,7 @@
 title: "Photo exhibition: the Vaia storm"
 excerpt: "A collection of aerial photos I took and presented at a photo exhibition in my hometown, Caltrano"
 header:
-  teaser: "/assets/images/download_manager_droidcon_italy_2019_small.jpg"
+  teaser: "/assets/images/vaia_small.jpg"
 gallery:
   - url: /assets/images/vaia/1.jpg
     image_path: /assets/images/vaia/1_small.jpg
