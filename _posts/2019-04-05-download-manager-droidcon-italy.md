@@ -1,6 +1,6 @@
 ---
 title: "The making of an Android library: Download Manager v2"
-excerpt: "How to get started creating a library, what are the difficulties we encountered and finally how to publish and share the library between multiple projects, presented at Droidcon Turin 2019"
+excerpt: "How to get started creating a library, what are the difficulties we encountered and finally how to publish and share the library between multiple projects"
 header:
   teaser: "/assets/images/download_manager_droidcon_italy_2019_small.jpg"
 ---
