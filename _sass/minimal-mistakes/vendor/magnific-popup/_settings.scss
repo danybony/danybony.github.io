@@ -4,7 +4,7 @@
 
 // overlay
 $mfp-overlay-color:                   #000;                     // Color of overlay screen
-$mfp-overlay-opacity:                 0.8;                        // Opacity of overlay screen
+$mfp-overlay-opacity:                 0.9;                        // Opacity of overlay screen
 $mfp-shadow:                          0 0 8px rgba(0, 0, 0, 0.6); // Shadow on image or iframe
 
 // spacing
@@ -15,7 +15,7 @@ $mfp-z-index-base:                    1040;                       // Base z-inde
 
 // controls
 $mfp-include-arrows:                  true;                       // Include styles for nav arrows
-$mfp-controls-opacity:                1;                          // Opacity of controls
+$mfp-controls-opacity:                0.5;                          // Opacity of controls
 $mfp-controls-color:                  #fff;                     // Color of controls
 $mfp-controls-border-color:           #fff;                     // Border color of controls
 $mfp-inner-close-icon-color:          #fff;                     // Color of close button when inside
