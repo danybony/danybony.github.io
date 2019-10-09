@@ -1,6 +1,6 @@
 ---
 title: "Photo exhibition: the Vaia storm"
-excerpt: "A collection of aerial photos I took and presented at a photo exhibition in my hometown, Caltrano"
+excerpt: "A collection of aerial photos I took in the woods and presented at a photo exhibition in my hometown, Caltrano"
 header:
   teaser: "/assets/images/vaia_small.jpg"
 gallery:
