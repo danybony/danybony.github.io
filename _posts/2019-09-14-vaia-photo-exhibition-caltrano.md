@@ -5,6 +5,7 @@ header:
   teaser: "/assets/images/vaia_small.jpg"
   image: /assets/images/vaia/header.jpg
 author_profile: false
+layout: splash
 gallery:
   - url: /assets/images/vaia/1.jpg
     image_path: /assets/images/vaia/1_small.jpg
@@ -38,10 +39,14 @@ gallery:
     image_path: /assets/images/vaia/8_small.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+  - url: /assets/images/vaia/9.jpg
+    image_path: /assets/images/vaia/9_small.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
 ---
 
 The storm Vaia caused considerable damages to the Italian forests, especially in the northeast of Italy
 
 ---
 
-{% include gallery class="full" %}
+{% include gallery %}
