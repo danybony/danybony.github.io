@@ -8,6 +8,11 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>Devfest Veneto 2019</b>
+ 	 	<br>November 2019
+ 	 	<br>Google Cast: when one screen is not enough
+ 	 	<br><a href="/cast-intro-devfest-veneto-2019/">More info</a>
+ 	</li>
  	<li> <b>Droidcon Italy</b>
  	 	<br>April 2019
  	 	<br>The making of an Android library: Download Manager v2
