@@ -13,3 +13,7 @@ The television is the biggest screen in our users home, and thanks to Google Cas
 In this talk I gave at Devfest Veneto 2019, I showed the main concept behind Google Cast, seeing how it can be used to to create a more central, prominent space for the most important content of your service.
 
 <script async class="speakerdeck-embed" data-id="b8ccbe4ae1c940a6829144a175fe2841" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uI8DhafiINs?list=PL0bBHyAilexzBdvHookPcPZNMceciAaZf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
