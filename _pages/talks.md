@@ -8,6 +8,11 @@ author_profile: true
 ---
 
 <ul>
+ 	<li> <b>Devfest St Petersburg 2019</b>
+ 	 	<br>November 2019
+ 	 	<br>Kotlin as scripting language
+ 	 	<br><a href="/kotlin-script/">More info</a>
+ 	</li>
  	<li> <b>Devfest Veneto 2019</b>
  	 	<br>November 2019
  	 	<br>Google Cast: when one screen is not enough
