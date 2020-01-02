@@ -7,11 +7,15 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2019
 <ul>
  	<li> <b>Devfest St Petersburg 2019</b>
  	 	<br>November 2019
  	 	<br>Kotlin as scripting language
  	 	<br><a href="/kotlin-script/">More info</a>
+		<figure>
+			<a href="/assets/images/devfest_st_petersburg_2019.jpg"><img src="/assets/images/devfest_st_petersburg_2019_small.jpg" alt="Presenting at Devfest St Petersburg 2019"></a>
+		</figure>
  	</li>
  	<li> <b>Devfest Veneto 2019</b>
  	 	<br>November 2019
@@ -33,6 +37,10 @@ author_profile: true
  	 	<br>An introduction to Flutter
  	 	<br><a href="/flutter-intro-pip/">More info</a>
  	</li>
+</ul>
+
+## 2018
+<ul>
  	<li> <b>DevFest Veneto</b>
  	 	<br>November 2018
  	 	<br>An introduction to Android Things and Google Photos API
@@ -54,6 +62,10 @@ author_profile: true
 			<a href="/assets/images/notifications_droidcon_turin_2018.jpg"><img src="/assets/images/notifications_droidcon_turin_2018_small.jpg" alt="Me, on stage of Droidcon Turin"></a>
 		</figure>
  	</li>
+ </ul>
+
+## 2017
+<ul>
  	<li> <b>DevFest1 Veneto</b>
  	 	<br>December 2017
  	 	<br>Introduction to Google Assistant and Actions on Google Codelab
@@ -67,6 +79,10 @@ author_profile: true
 		<br>April 2017
  	 	<br>What's new in Android Wear 2.0
 	</li>
+</ul>
+
+## 2016
+<ul>
 	<li> <b>Wearables Londroid, London</b> 
 		<br>August 2016
 		<br>Complications for Android Wear
@@ -79,6 +95,10 @@ author_profile: true
 		<br>April 2016
 		<br>From clockwork to smartwatch. Wearable apps development key principles
 	</li>
+</ul>
+
+## 2015
+<ul>
 	<li> <b>Droidcon UK, London</b> 
 		<br>October 2015
 		<br>From clockwork to smartwatch. Wearable apps development key principles
@@ -91,6 +111,10 @@ author_profile: true
 		<br>March 2015
 		<br>AOSP building blocks. An introduction to the Android Open Source Project development
 	</li>
+</ul>
+
+## 2014
+<ul>
 	<li> <b>Droidcon Amsterdam</b> 
 		<br>November 2014
 		<br>AOSP building blocks. An introduction to the Android Open Source Project development 
