@@ -103,7 +103,7 @@ By using the `--idea` parameter, it creates a temporary, minimal project and aut
 
 ---
 
-There are several very well known alternatives for creating scripts, but Kotlin is definitely the most best I've tried. With the addition of kscript, its caching and third party dependencies, it's very easy to quickly create powerful scripts that are highly maintainable too thanks to the use of the Kotlin language.
+There are several very well known alternatives for creating scripts, but Kotlin is definitely the best I've tried. With the addition of kscript, its caching and third party dependencies, it's very easy to quickly create powerful scripts that are highly maintainable too thanks to the use of the Kotlin language.
 
 ---
 
