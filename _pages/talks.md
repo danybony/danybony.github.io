@@ -7,6 +7,15 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2020
+<ul>
+ 	<li> <b>Programmers in Padua</b>
+ 	 	<br>January 2020
+ 	 	<br>Kotlin as scripting language
+ 	 	<br><a href="/kotlin-script/">More info</a>
+ 	</li>
+</ul>
+
 ## 2019
 <ul>
  	<li> <b>Devfest St Petersburg 2019</b>
