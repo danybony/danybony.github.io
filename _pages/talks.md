@@ -9,6 +9,11 @@ author_profile: true
 
 ## 2020
 <ul>
+ 	<li> <b>Android Developers Italia - Youtube streaming</b>
+ 	 	<br>March 2020
+ 	 	<br>Kotlin as scripting language - remote talk
+ 	 	<br><a href="/android-developers-italia-kscript-talk/">More info</a>
+ 	</li>
  	<li> <b>Programmers in Padua</b>
  	 	<br>January 2020
  	 	<br>Kotlin as scripting language
