@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2020
 <ul>
+ 	<li> <b>Devparty Together - Youtube streaming</b>
+ 	 	<br>May 2020
+ 	 	<br>Google Cast: when one screen is not enough
+ 	</li>
  	<li> <b>Android Developers Italia - Youtube streaming</b>
  	 	<br>March 2020
  	 	<br>Kotlin as scripting language - remote talk
