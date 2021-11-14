@@ -7,6 +7,18 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2021
+<ul>
+ 	<li> <b>Droidcon Italy 2021</b>
+ 	 	<br>November 2021
+ 	 	<br>Wellness & Droid - introduction to some API related to user wellbeing (sleep, activity tracking, Google Fit integration) with some real-world use cases
+ 	</li>
+ 	<li> <b>Droidcon London 2021</b>
+ 	 	<br>October 2021
+ 	 	<br>Behind the curtains - how to wrap Sony remote camera control API to control a mirrorless camera through an Android app
+ 	</li>
+</ul>
+
 ## 2020
 <ul>
  	<li> <b>Devparty Together - Youtube streaming</b>
