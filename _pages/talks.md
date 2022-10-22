@@ -7,6 +7,18 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2022
+<ul>
+ 	<li> <b>Droidcon Egypt 2022</b>
+ 	 	<br>October 2022
+ 	 	<br>When one device is not enough
+ 	</li>
+ 	<li> <b>Droidcon Italy 2022</b>
+ 	 	<br>October 2022
+ 	 	<br>When one device is not enough - a description of a developer SDK from Google to detect and share data between nearby devices
+ 	</li>
+</ul>
+
 ## 2021
 <ul>
  	<li> <b>GDG Verona November 2021 meetup</b>
