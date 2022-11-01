@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2022
 <ul>
+	<li> <b>Droidcon London 2022</b>
+ 	 	<br>October 2022
+ 	 	<br>When one device is not enough
+ 	</li>
  	<li> <b>Droidcon Egypt 2022</b>
  	 	<br>October 2022
  	 	<br>When one device is not enough
