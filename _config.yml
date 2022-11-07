@@ -118,6 +118,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/danybony_"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://androiddev.social/@daniele"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -136,8 +139,11 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+      icon: "fab fa-fw fa-twitter-square icon-footer"
+      url: "https://twitter.com/danybony_"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon icon-footer"
+      url: "https://androiddev.social/@daniele"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -151,8 +157,11 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: "fab fa-fw fa-instagram icon-footer"
+      url: "https://instagram.com/danybony_"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin icon-footer"
+      url: "https://www.linkedin.com/in/danielebonaldo"
 
 
 # Reading Files
