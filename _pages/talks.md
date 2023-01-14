@@ -7,6 +7,14 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2023
+<ul>
+	<li> <b>DevFest Alps 2022, Turin</b>
+ 	 	<br>January 2023
+ 	 	<br>Kotlin come linguaggio di scripting
+ 	</li>
+</ul>
+
 ## 2022
 <ul>
 	<li> <b>Droidcon London 2022</b>
@@ -20,6 +28,9 @@ author_profile: true
  	<li> <b>Droidcon Italy 2022</b>
  	 	<br>October 2022
  	 	<br>When one device is not enough - a description of a developer SDK from Google to detect and share data between nearby devices
+		<figure>
+			<a href="/assets/images/droidcon_italy_2022.jpg"><img src="/assets/images/droidcon_italy_2022_small.jpg" alt="Presenting at Droidcon Italy 2022"></a>
+		</figure>
  	</li>
 </ul>
 
