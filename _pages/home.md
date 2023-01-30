@@ -32,6 +32,14 @@ feature_speaking:
     url: "/talks"
     btn_label: "Previous talks"
     btn_class: "btn--primary"
+feature_gde_badges:
+  - image_path: /assets/images/splash/gde_badge_android.png
+    alt: "Google Developer Expert for Android"
+  - image_path: /assets/images/splash/gde_badge_wearables.png
+    alt: "Google Developer Expert for Wearables"
+  - image_path: /assets/images/splash/gde_badge_iot.png
+    alt: "Google Developer Expert for Internet of Things"
+    title: ""
 ---
 
 {% include feature_row id="feature_android_development" type="center" %}
@@ -39,3 +47,5 @@ feature_speaking:
 {% include feature_row %}
 
 {% include feature_row id="feature_speaking" type="center" %}
+
+{% include feature_row id="feature_gde_badges" %}
