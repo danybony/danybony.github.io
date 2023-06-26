@@ -9,6 +9,15 @@ author_profile: true
 
 ## 2023
 <ul>
+	<li> <b>Google I/O Extended, Munich</b>
+ 	 	<br>May 2023
+ 	 	<br>Building for Android, more than just mobile apps
+ 	</li>
+	<li> <b>Google I/O Extended, Pescara</b>
+ 	 	<br>May 2023
+ 	 	<br>Building for Android, more than just mobile apps. Different UX for Android developers, including widgets, wearables and automotive
+ 	 	<br><a href="https://speakerdeck.com/danybony/building-for-android-more-than-just-mobile-apps">Slides</a>
+ 	</li>
 	<li> <b>DevFest Alps 2022, Turin</b>
  	 	<br>January 2023
  	 	<br>Kotlin come linguaggio di scripting
