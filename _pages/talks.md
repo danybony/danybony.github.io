@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2023
 <ul>
+	<li> <b>Droidcon London 2023</b>
+ 	 	<br>October 2023
+ 	 	<br>Sink or swim: proving ideas in production, fast
+ 	</li>
 	<li> <b>Google I/O Extended, Munich</b>
  	 	<br>May 2023
  	 	<br>Building for Android, more than just mobile apps
