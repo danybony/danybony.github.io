@@ -9,7 +9,17 @@ author_profile: true
 
 ## 2023
 <ul>
-	<li> <b>Droidcon London 2023</b>
+	<li> <b>GDG Milan November 2023 meetup</b>
+ 	 	<br>November 2023
+ 	 	<br>Droidi su ruote, introduzione ad Android Auto e Automotive
+    <br><a href="https://www.youtube.com/watch?v=myarFeVzlg4&ab_channel=GDGMilano">Recording</a>
+ 	</li>
+	<li> <b>Android Developers Italia Youtube live streaming</b>
+ 	 	<br>November 2023
+ 	 	<br>From mobile to wearable, introduction to WearOS
+    <br><a href="https://www.youtube.com/watch?v=wF2YcMsNVL8&t=454s&ab_channel=ADIAndroidDevelopersItalia">Video</a>
+ 	</li>
+  <li> <b>Droidcon London 2023</b>
  	 	<br>October 2023
  	 	<br>Sink or swim: proving ideas in production, fast
  	</li>
