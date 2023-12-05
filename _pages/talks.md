@@ -12,12 +12,12 @@ author_profile: true
 	<li> <b>GDG Milan November 2023 meetup</b>
  	 	<br>November 2023
  	 	<br>Droidi su ruote, introduzione ad Android Auto e Automotive
-    <br><a href="https://www.youtube.com/watch?v=myarFeVzlg4&ab_channel=GDGMilano">Recording</a>
+    <br><a href="https://www.youtube.com/watch?v=myarFeVzlg4&ab_channel=GDGMilano" target="_blank">Recording</a>
  	</li>
 	<li> <b>Android Developers Italia Youtube live streaming</b>
  	 	<br>November 2023
  	 	<br>From mobile to wearable, introduction to WearOS
-    <br><a href="https://www.youtube.com/watch?v=wF2YcMsNVL8&t=454s&ab_channel=ADIAndroidDevelopersItalia">Video</a>
+    <br><a href="https://www.youtube.com/watch?v=wF2YcMsNVL8&t=454s&ab_channel=ADIAndroidDevelopersItalia" target="_blank">Video</a>
  	</li>
   <li> <b>Droidcon London 2023</b>
  	 	<br>October 2023
@@ -30,7 +30,7 @@ author_profile: true
 	<li> <b>Google I/O Extended, Pescara</b>
  	 	<br>May 2023
  	 	<br>Building for Android, more than just mobile apps. Different UX for Android developers, including widgets, wearables and automotive
- 	 	<br><a href="https://speakerdeck.com/danybony/building-for-android-more-than-just-mobile-apps">Slides</a>
+ 	 	<br><a href="https://speakerdeck.com/danybony/building-for-android-more-than-just-mobile-apps" target="_blank">Slides</a>
  	</li>
 	<li> <b>DevFest Alps 2022, Turin</b>
  	 	<br>January 2023
