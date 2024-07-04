@@ -7,6 +7,14 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2024
+<ul>
+	<li> <b>AperiTech Milano - Kotlin & Flutter: Beyond Platform Limits!</b>
+ 	 	<br>May 2024
+ 	 	<br>Compose Multiplatform, non solo mobile apps
+ 	</li>
+</ul>
+
 ## 2023
 <ul>
 	<li> <b>GDG Milan November 2023 meetup</b>
