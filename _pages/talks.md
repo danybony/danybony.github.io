@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2024
 <ul>
+	<li> <b>Droidcon Berlin 2024</b>
+ 	 	<br>July 2024
+ 	 	<br>How “Write-Once / Deploy Everywhere” is Becoming a Reality in Automotive Applications
+ 	</li>
 	<li> <b>AperiTech Milano - Kotlin & Flutter: Beyond Platform Limits!</b>
  	 	<br>May 2024
  	 	<br>Compose Multiplatform, non solo mobile apps
