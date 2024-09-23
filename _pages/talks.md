@@ -9,6 +9,18 @@ author_profile: true
 
 ## 2024
 <ul>
+	<li> <b>Droidkaigi 2024, Tokyo, Japan</b>
+ 	 	<br>September 2024
+ 	 	<br>Put some 3D sparkles on your 2D app, introduction about Filament
+    	<br><a href="https://github.com/danybony/filament-demo-3d-printer" target="_blank">Support project</a>
+		<figure>
+			<a href="/assets/images/droidkaigi_2024.jpg"><img src="/assets/images/droidkaigi_2024_small.jpg" alt="Presenting at Droidkaigi 2024"></a>
+		</figure>
+ 	</li>
+	<li> <b>DevFest Vicenza 2024</b>
+ 	 	<br>July 2024
+ 	 	<br>Droidi su ruote, introduzione ad Android Auto ed Automotive
+ 	</li>
 	<li> <b>Droidcon Berlin 2024</b>
  	 	<br>July 2024
  	 	<br>How “Write-Once / Deploy Everywhere” is Becoming a Reality in Automotive Applications
