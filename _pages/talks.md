@@ -12,7 +12,7 @@ author_profile: true
 	<li> <b>Droidkaigi 2024, Tokyo, Japan</b>
  	 	<br>September 2024
  	 	<br>Put some 3D sparkles on your 2D app, introduction about Filament
-    	<br><a href="https://github.com/danybony/filament-demo-3d-printer" target="_blank">Support project</a>
+    	<br><a href="https://github.com/danybony/filament-demo-3d-printer" target="_blank">Support project</a> - <a href="https://www.youtube.com/watch?v=-y6DTqWKa-g" target="_blank">Video</a>
 		<figure>
 			<a href="/assets/images/droidkaigi_2024.jpg"><img src="/assets/images/droidkaigi_2024_small.jpg" alt="Presenting at Droidkaigi 2024"></a>
 		</figure>
