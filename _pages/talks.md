@@ -7,6 +7,14 @@ permalink: /talks.html
 author_profile: true
 ---
 
+## 2025
+<ul>
+	<li> <b>GDG Tashkent meetup, Uzbekistan</b>
+ 	 	<br>May 2025
+ 	 	<br>Best Mobile UI/UX principles + App Clinics (For Mobile Developers & Designers)
+ 	</li>
+</ul>
+
 ## 2024
 <ul>
 	<li> <b>Droidkaigi 2024, Tokyo, Japan</b>
