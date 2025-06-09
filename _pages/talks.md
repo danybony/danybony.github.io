@@ -13,6 +13,10 @@ author_profile: true
  	 	<br>May 2025
  	 	<br>Best Mobile UI/UX principles + App Clinics (For Mobile Developers & Designers)
  	</li>
+  <li> <b>Remote working communities panel, Milan</b>
+ 	 	<br>January 2025
+ 	 	<br>Community Chats: Remote Working con Coding Bunker e fullremote.it
+ 	</li>
 </ul>
 
 ## 2024
