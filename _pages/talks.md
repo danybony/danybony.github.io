@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2025
 <ul>
+	<li> <b>DevFest Vicenza 2025</b>
+ 	 	<br>June 2025
+ 	 	<br>Modern Mobile UI/UX principles
+ 	</li>
 	<li> <b>GDG Tashkent meetup, Uzbekistan</b>
  	 	<br>May 2025
  	 	<br>Best Mobile UI/UX principles + App Clinics (For Mobile Developers & Designers)
