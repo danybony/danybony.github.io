@@ -9,6 +9,11 @@ author_profile: true
 
 ## 2025
 <ul>
+  <li> <b>DevFest Mauritius 2025</b>
+ 	 	<br>September 2025
+ 	 	<br>Building for Android, more than just mobile apps
+ 	 	<br>Modern Mobile UI/UX principles
+ 	</li>
 	<li> <b>DevFest Vicenza 2025</b>
  	 	<br>June 2025
  	 	<br>Modern Mobile UI/UX principles
