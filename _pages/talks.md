@@ -9,6 +9,10 @@ author_profile: true
 
 ## 2025
 <ul>
+  <li> <b>DevFest Pescara 2025</b>
+ 	 	<br>November 2025
+ 	 	<br>Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta
+ 	</li>
   <li> <b>DevFest Mauritius 2025</b>
  	 	<br>September 2025
  	 	<br>Building for Android, more than just mobile apps
