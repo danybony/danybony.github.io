@@ -1,0 +1,311 @@
+- year: 2025
+  events:
+    - title: "DevFest Pescara 2025"
+      date: "November 2025"
+      description: "Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta"
+      location: "Pescara, Italy"
+      lat: 42.4584
+      lon: 14.2028
+    - title: "DevFest Mauritius 2025"
+      date: "September 2025"
+      description: "Building for Android, more than just mobile apps<br>Modern Mobile UI/UX principles"
+      location: "Mauritius"
+      lat: -20.3484
+      lon: 57.5522
+    - title: "DevFest Vicenza 2025"
+      date: "June 2025"
+      description: "Modern Mobile UI/UX principles"
+      location: "Vicenza, Italy"
+      lat: 45.5467
+      lon: 11.5475
+    - title: "GDG Tashkent meetup, Uzbekistan"
+      date: "May 2025"
+      description: "Best Mobile UI/UX principles + App Clinics (For Mobile Developers & Designers)"
+      location: "Tashkent, Uzbekistan"
+      lat: 41.2995
+      lon: 69.2401
+    - title: "Remote working communities panel, Milan"
+      date: "January 2025"
+      description: "Community Chats: Remote Working con Coding Bunker e fullremote.it"
+      location: "Milan, Italy"
+      lat: 45.4642
+      lon: 9.1900
+
+- year: 2024
+  events:
+    - title: "Droidkaigi 2024, Tokyo, Japan"
+      date: "September 2024"
+      description: 'Put some 3D sparkles on your 2D app, introduction about Filament<br><a href="https://github.com/danybony/filament-demo-3d-printer" target="_blank">Support project</a> - <a href="https://www.youtube.com/watch?v=-y6DTqWKa-g" target="_blank">Video</a>'
+      location: "Tokyo, Japan"
+      lat: 35.6762
+      lon: 139.6503
+      image: "/assets/images/droidkaigi_2024_small.jpg"
+      image_full: "/assets/images/droidkaigi_2024.jpg"
+      image_alt: "Presenting at Droidkaigi 2024"
+    - title: "DevFest Vicenza 2024"
+      date: "July 2024"
+      description: "Droidi su ruote, introduzione ad Android Auto ed Automotive"
+      location: "Vicenza, Italy"
+      lat: 45.5467
+      lon: 11.5475
+    - title: "Droidcon Berlin 2024"
+      date: "July 2024"
+      description: "How “Write-Once / Deploy Everywhere” is Becoming a Reality in Automotive Applications"
+      location: "Berlin, Germany"
+      lat: 52.5200
+      lon: 13.4050
+    - title: "AperiTech Milano - Kotlin & Flutter: Beyond Platform Limits!"
+      date: "May 2024"
+      description: "Compose Multiplatform, non solo mobile apps"
+      location: "Milan, Italy"
+      lat: 45.4642
+      lon: 9.1900
+
+- year: 2023
+  events:
+    - title: "GDG Milan November 2023 meetup"
+      date: "November 2023"
+      description: 'Droidi su ruote, introduzione ad Android Auto e Automotive<br><a href="https://www.youtube.com/watch?v=myarFeVzlg4&ab_channel=GDGMilano" target="_blank">Recording</a>'
+      location: "Milan, Italy"
+      lat: 45.4642
+      lon: 9.1900
+    - title: "Android Developers Italia Youtube live streaming"
+      date: "November 2023"
+      description: 'From mobile to wearable, introduction to WearOS<br><a href="https://www.youtube.com/watch?v=wF2YcMsNVL8&t=454s&ab_channel=ADIAndroidDevelopersItalia" target="_blank">Video</a>'
+      location: "Online"
+    - title: "Droidcon London 2023"
+      date: "October 2023"
+      description: "Sink or swim: proving ideas in production, fast"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+    - title: "Google I/O Extended, Munich"
+      date: "May 2023"
+      description: "Building for Android, more than just mobile apps"
+      location: "Munich, Germany"
+      lat: 48.1351
+      lon: 11.5820
+    - title: "Google I/O Extended, Pescara"
+      date: "May 2023"
+      description: 'Building for Android, more than just mobile apps. Different UX for Android developers, including widgets, wearables and automotive<br><a href="https://speakerdeck.com/danybony/building-for-android-more-than-just-mobile-apps" target="_blank">Slides</a>'
+      location: "Pescara, Italy"
+      lat: 42.4584
+      lon: 14.2028
+    - title: "DevFest Alps 2022, Turin"
+      date: "January 2023"
+      description: "Kotlin come linguaggio di scripting"
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+
+- year: 2022
+  events:
+    - title: "Droidcon London 2022"
+      date: "October 2022"
+      description: "When one device is not enough"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+    - title: "Droidcon Egypt 2022"
+      date: "October 2022"
+      description: "When one device is not enough"
+      location: "Cairo, Egypt"
+      lat: 30.0444
+      lon: 31.2357
+    - title: "Droidcon Italy 2022"
+      date: "October 2022"
+      description: "When one device is not enough - a description of a developer SDK from Google to detect and share data between nearby devices"
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+      image: "/assets/images/droidcon_italy_2022_small.jpg"
+      image_full: "/assets/images/droidcon_italy_2022.jpg"
+      image_alt: "Presenting at Droidcon Italy 2022"
+
+- year: 2021
+  events:
+    - title: "GDG Verona November 2021 meetup"
+      date: "November 2021"
+      description: "Behind the curtains - how to wrap Sony remote camera control API to control a mirrorless camera through an Android app"
+      location: "Verona, Italy"
+      lat: 45.4384
+      lon: 10.9916
+    - title: "Droidcon Italy 2021"
+      date: "November 2021"
+      description: "Wellness & Droid - introduction to some API related to user wellbeing (sleep, activity tracking, Google Fit integration) with some real-world use cases"
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+    - title: "Droidcon London 2021"
+      date: "October 2021"
+      description: "Behind the curtains - how to wrap Sony remote camera control API to control a mirrorless camera through an Android app"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+
+- year: 2020
+  events:
+    - title: "Devparty Together - Youtube streaming"
+      date: "May 2020"
+      description: "Google Cast: when one screen is not enough"
+      location: "Online"
+    - title: "Android Developers Italia - Youtube streaming"
+      date: "March 2020"
+      description: 'Kotlin as scripting language - remote talk<br><a href="/android-developers-italia-kscript-talk/">More info</a>'
+      location: "Online"
+    - title: "Programmers in Padua"
+      date: "January 2020"
+      description: 'Kotlin as scripting language<br><a href="/kotlin-script/">More info</a>'
+      location: "Padua, Italy"
+      lat: 45.4064
+      lon: 11.8768
+
+- year: 2019
+  events:
+    - title: "Devfest St Petersburg 2019"
+      date: "November 2019"
+      description: 'Kotlin as scripting language<br><a href="/kotlin-script/">More info</a>'
+      location: "St Petersburg, Russia"
+      lat: 59.9311
+      lon: 30.3609
+      image: "/assets/images/devfest_st_petersburg_2019_small.jpg"
+      image_full: "/assets/images/devfest_st_petersburg_2019.jpg"
+      image_alt: "Presenting at Devfest St Petersburg 2019"
+    - title: "Devfest Veneto 2019"
+      date: "November 2019"
+      description: 'Google Cast: when one screen is not enough<br><a href="/cast-intro-devfest-veneto-2019/">More info</a>'
+      location: "Veneto, Italy"
+      lat: 45.4384 # Using Verona as proxy for Veneto region if specific city unknown, or Vicenza. DevFest Veneto often in various cities. Let's use Verona coordinates or check context. 2019 was in Verona.
+      lon: 10.9916
+    - title: "Droidcon Italy"
+      date: "April 2019"
+      description: 'The making of an Android library: Download Manager v2<br>How to get started creating a library, what are the difficulties we encountered and finally how to publish and share the library between multiple projects<br><a href="/download-manager-droidcon-italy/">More info</a>'
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+    - title: "Noonic Lunch and Learn"
+      date: "March 2019"
+      description: "How we work remote at Novoda"
+      location: "Padua, Italy" # Noonic HQ in Padua
+      lat: 45.4064
+      lon: 11.8768
+    - title: "Programmers in Padua"
+      date: "January 2019"
+      description: 'An introduction to Flutter<br><a href="/flutter-intro-pip/">More info</a>'
+      location: "Padua, Italy"
+      lat: 45.4064
+      lon: 11.8768
+
+- year: 2018
+  events:
+    - title: "DevFest Veneto"
+      date: "November 2018"
+      description: "An introduction to Android Things and Google Photos API"
+      location: "Verona, Italy"
+      lat: 45.4384
+      lon: 10.9916
+    - title: "DevFest Gorky, Nizhny Novgorod"
+      date: "October 2018"
+      description: 'An introduction to Android Things and Google Photos API, using a real project (an Android Things photo booth) as example<br><a href="/do-it-yourselfie-devfest-gorky/">More info</a>'
+      location: "Nizhny Novgorod, Russia"
+      lat: 56.2965
+      lon: 43.9361
+      image: "/assets/images/devfest_gorky_speakers_small.jpg"
+      image_full: "/assets/images/devfest_gorky_speakers.jpg"
+      image_alt: "Me and Roberto on stage at DevFest Gorky 2018"
+    - title: "Droidcon Italy"
+      date: "April 2018"
+      description: 'History of Android notifications and current possibilities for developer when creating them<br>Hands-on workshop on how to build a weather station using Android Things<br><a href="/notifications-droidcon-turin-2018/">More info</a>'
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+      image: "/assets/images/notifications_droidcon_turin_2018_small.jpg"
+      image_full: "/assets/images/notifications_droidcon_turin_2018.jpg"
+      image_alt: "Me, on stage of Droidcon Turin"
+
+- year: 2017
+  events:
+    - title: "DevFest1 Veneto"
+      date: "December 2017"
+      description: 'Introduction to Google Assistant and Actions on Google Codelab<br><a href="/introduction-to-assistant-at-devfest1-veneto/">More info</a>'
+      location: "Verona, Italy"
+      lat: 45.4384
+      lon: 10.9916
+    - title: "DevFest Budapest"
+      date: "October 2017"
+      description: "How to build an Android Things-powered word clock"
+      location: "Budapest, Hungary"
+      lat: 47.4979
+      lon: 19.0402
+    - title: "Droidcon Italy"
+      date: "April 2017"
+      description: "What's new in Android Wear 2.0"
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+
+- year: 2016
+  events:
+    - title: "Wearables Londroid, London"
+      date: "August 2016"
+      description: "Complications for Android Wear"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+    - title: "GDG Liverpool"
+      date: "June 2016"
+      description: "Getting started with Android Wear Development"
+      location: "Liverpool, UK"
+      lat: 53.4084
+      lon: -2.9916
+    - title: "Droidcon Italy, Turin"
+      date: "April 2016"
+      description: "From clockwork to smartwatch. Wearable apps development key principles"
+      location: "Turin, Italy"
+      lat: 45.0703
+      lon: 7.6869
+
+- year: 2015
+  events:
+    - title: "Droidcon UK, London"
+      date: "October 2015"
+      description: "From clockwork to smartwatch. Wearable apps development key principles"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+    - title: "Post IO Londroid"
+      date: "June 2015"
+      description: "What's new in Android Wear"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
+    - title: "Droidcon Tunisi"
+      date: "March 2015"
+      description: "AOSP building blocks. An introduction to the Android Open Source Project development"
+      location: "Tunis, Tunisia"
+      lat: 36.8065
+      lon: 10.1815
+
+- year: 2014
+  events:
+    - title: "Droidcon Amsterdam"
+      date: "November 2014"
+      description: "AOSP building blocks. An introduction to the Android Open Source Project development"
+      location: "Amsterdam, Netherlands"
+      lat: 52.3676
+      lon: 4.9041
+    - title: "Devfest Berlin"
+      date: "November 2014"
+      description: "AOSP building blocks. An introduction to the Android Open Source Project development"
+      location: "Berlin, Germany"
+      lat: 52.5200
+      lon: 13.4050
+      image: "/assets/images/devfest_berlin_2014_small.jpg"
+      image_full: "/assets/images/devfest_berlin_2014.jpg"
+      image_alt: "Presenting at Devfest Berlin 2014"
+    - title: "Droidcon UK"
+      date: "October 2014"
+      description: "AOSP building blocks. An introduction to the Android Open Source Project development"
+      location: "London, UK"
+      lat: 51.5074
+      lon: -0.1278
