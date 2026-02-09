@@ -49,7 +49,9 @@ author_profile: true
     locationMap[key].talks.push(event);
   });
 
-  var map = L.map('map').setView([20, 10], 2);
+  var map = L.map('map', {
+    minZoom: 2
+  }).setView([20, 10], 2);
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
