@@ -18,13 +18,13 @@
       location: "Vicenza, Italy"
       lat: 45.5467
       lon: 11.5475
-    - title: "GDG Tashkent meetup, Uzbekistan"
+    - title: "GDG Tashkent meetup"
       date: "May 2025"
       description: "Best Mobile UI/UX principles + App Clinics (For Mobile Developers & Designers)"
       location: "Tashkent, Uzbekistan"
       lat: 41.2995
       lon: 69.2401
-    - title: "Remote working communities panel, Milan"
+    - title: "Remote working communities panel"
       date: "January 2025"
       description: "Community Chats: Remote Working con Coding Bunker e fullremote.it"
       location: "Milan, Italy"
@@ -33,7 +33,7 @@
 
 - year: 2024
   events:
-    - title: "Droidkaigi 2024, Tokyo, Japan"
+    - title: "Droidkaigi 2024"
       date: "September 2024"
       description: 'Put some 3D sparkles on your 2D app, introduction about Filament<br><a href="https://github.com/danybony/filament-demo-3d-printer" target="_blank">Support project</a> - <a href="https://www.youtube.com/watch?v=-y6DTqWKa-g" target="_blank">Video</a>'
       location: "Tokyo, Japan"
@@ -91,7 +91,7 @@
       location: "Pescara, Italy"
       lat: 42.4584
       lon: 14.2028
-    - title: "DevFest Alps 2022, Turin"
+    - title: "DevFest Alps 2022"
       date: "January 2023"
       description: "Kotlin come linguaggio di scripting"
       location: "Turin, Italy"
@@ -204,7 +204,7 @@
       location: "Catena di Villorba, Italy"
       lat: 45.7395665
       lon: 12.2632256
-    - title: "DevFest Gorky, Nizhny Novgorod"
+    - title: "DevFest Gorky"
       date: "October 2018"
       description: 'An introduction to Android Things and Google Photos API, using a real project (an Android Things photo booth) as example<br><a href="/do-it-yourselfie-devfest-gorky/">More info</a>'
       location: "Nizhny Novgorod, Russia"
@@ -246,7 +246,7 @@
 
 - year: 2016
   events:
-    - title: "Wearables Londroid, London"
+    - title: "Wearables Londroid"
       date: "August 2016"
       description: "Complications for Android Wear"
       location: "London, UK"
@@ -258,7 +258,7 @@
       location: "Liverpool, UK"
       lat: 53.4084
       lon: -2.9916
-    - title: "Droidcon Italy, Turin"
+    - title: "Droidcon Italy"
       date: "April 2016"
       description: "From clockwork to smartwatch. Wearable apps development key principles"
       location: "Turin, Italy"
@@ -267,7 +267,7 @@
 
 - year: 2015
   events:
-    - title: "Droidcon UK, London"
+    - title: "Droidcon UK"
       date: "October 2015"
       description: "From clockwork to smartwatch. Wearable apps development key principles"
       location: "London, UK"
