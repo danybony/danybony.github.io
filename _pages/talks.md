@@ -29,8 +29,25 @@ author_profile: true
     {% endfor %}
   ];
 
-  // Reverse to show chronologically
-  events.reverse();
+  // Most recent first
+  // events.reverse();
+
+  var groupedEvents = [];
+  var locationMap = {};
+
+  events.forEach(function(event) {
+    var key = event.lat + ',' + event.lon;
+    if (!locationMap[key]) {
+      locationMap[key] = {
+        lat: event.lat,
+        lon: event.lon,
+        location: event.location,
+        talks: []
+      };
+      groupedEvents.push(locationMap[key]);
+    }
+    locationMap[key].talks.push(event);
+  });
 
   var map = L.map('map').setView([20, 10], 2);
 
@@ -39,10 +56,24 @@ author_profile: true
   }).addTo(map);
 
   function addMarker(index) {
-    if (index >= events.length) return;
-    var event = events[index];
-    var marker = L.marker([event.lat, event.lon]).addTo(map);
-    marker.bindPopup("<b>" + event.title + "</b><br>" + event.location + "<br>" + event.date);
+    if (index >= groupedEvents.length) return;
+    var group = groupedEvents[index];
+    var marker = L.marker([group.lat, group.lon]).addTo(map);
+    
+    var popupContent = "<b>" + group.location + "</b><br>";
+    var maxVisible = 3;
+    var visibleTalks = group.talks.slice(0, maxVisible);
+    
+    visibleTalks.forEach(function(talk, i) {
+      if (i > 0) popupContent += "<hr>";
+      popupContent += "<b>" + talk.title + "</b><br>" + talk.date;
+    });
+    
+    if (group.talks.length > maxVisible) {
+      popupContent += "<hr><i>and " + (group.talks.length - maxVisible) + " more events</i>";
+    }
+    
+    marker.bindPopup(popupContent);
     
     setTimeout(function() {
       addMarker(index + 1);
