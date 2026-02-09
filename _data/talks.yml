@@ -174,9 +174,9 @@
     - title: "Devfest Veneto 2019"
       date: "November 2019"
       description: 'Google Cast: when one screen is not enough<br><a href="/cast-intro-devfest-veneto-2019/">More info</a>'
-      location: "Veneto, Italy"
-      lat: 45.4384 # Using Verona as proxy for Veneto region if specific city unknown, or Vicenza. DevFest Veneto often in various cities. Let's use Verona coordinates or check context. 2019 was in Verona.
-      lon: 10.9916
+      location: "Venezia, Italy"
+      lat: 45.4673053
+      lon: 12.1531581
     - title: "Droidcon Italy"
       date: "April 2019"
       description: 'The making of an Android library: Download Manager v2<br>How to get started creating a library, what are the difficulties we encountered and finally how to publish and share the library between multiple projects<br><a href="/download-manager-droidcon-italy/">More info</a>'
@@ -201,9 +201,9 @@
     - title: "DevFest Veneto"
       date: "November 2018"
       description: "An introduction to Android Things and Google Photos API"
-      location: "Verona, Italy"
-      lat: 45.4384
-      lon: 10.9916
+      location: "Catena di Villorba, Italy"
+      lat: 45.7395665
+      lon: 12.2632256
     - title: "DevFest Gorky, Nizhny Novgorod"
       date: "October 2018"
       description: 'An introduction to Android Things and Google Photos API, using a real project (an Android Things photo booth) as example<br><a href="/do-it-yourselfie-devfest-gorky/">More info</a>'
@@ -228,9 +228,9 @@
     - title: "DevFest1 Veneto"
       date: "December 2017"
       description: 'Introduction to Google Assistant and Actions on Google Codelab<br><a href="/introduction-to-assistant-at-devfest1-veneto/">More info</a>'
-      location: "Verona, Italy"
-      lat: 45.4384
-      lon: 10.9916
+      location: "Catena di Villorba, Italy"
+      lat: 45.7395665
+      lon: 12.2632256
     - title: "DevFest Budapest"
       date: "October 2017"
       description: "How to build an Android Things-powered word clock"
@@ -273,6 +273,12 @@
       location: "London, UK"
       lat: 51.5074
       lon: -0.1278
+    - title: "Getting started with Android Wear Development, GDG Reading and Thames Valley"
+      date: "September 2015"
+      description: "Android Wear intro workshop"
+      location: "Reading, UK"
+      lat: 51.4514567
+      lon: -0.9960477
     - title: "Post IO Londroid"
       date: "June 2015"
       description: "What's new in Android Wear"
