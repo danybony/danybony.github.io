@@ -9,9 +9,18 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
 gem "jekyll-remote-theme"
 gem 'jekyll-include-cache'
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+gem 'jekyll-gist'
+gem 'jekyll-feed'
+gem 'logger'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'webrick'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

@@ -133,4 +133,7 @@ $(function() {
       $(this).append(anchor);
     }
   });
+
+  // External links in new tab
+  $('a[href^="http"]').not('a[href*="' + location.hostname + '"]').attr('target', '_blank').attr('rel', 'noopener noreferrer');
 });
