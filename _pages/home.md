@@ -10,7 +10,7 @@ excerpt: "Android developer, photographer, tech enthusiast, explorer."
 feature_row:
   - image_path: /assets/images/splash/events.jpg
     alt: "Public events photography"
-    title: "Events"
+    title: "Events photography"
   - image_path: /assets/images/splash/product.jpg
     alt: "Still life of products"
     title: "Product still life"
@@ -35,10 +35,6 @@ feature_speaking:
 feature_gde_badges:
   - image_path: /assets/images/splash/gde_badge_android.png
     alt: "Google Developer Expert for Android"
-  - image_path: /assets/images/splash/gde_badge_wearables.png
-    alt: "Google Developer Expert for Wearables"
-  - image_path: /assets/images/splash/gde_badge_iot.png
-    alt: "Google Developer Expert for Internet of Things"
     title: ""
 ---
 
@@ -48,4 +44,4 @@ feature_gde_badges:
 
 {% include feature_row id="feature_speaking" type="center" %}
 
-{% include feature_row id="feature_gde_badges" %}
+{% include feature_row id="feature_gde_badges" type="center" %}
