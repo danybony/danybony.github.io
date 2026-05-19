@@ -26,7 +26,7 @@ feature_android_development:
   - image_path: /assets/images/splash/android_development.jpg
     title: "Mobile development"
 feature_speaking:
-  - image_path: /assets/images/splash/speaking.jpg
+  - image_path: /assets/images/droidkaigi_2024_small.jpg
     alt: "Me speaking at Droidcon Turin"
     title: "Public speaking & training"
     url: "/talks"
@@ -40,8 +40,8 @@ feature_gde_badges:
 
 {% include feature_row id="feature_android_development" type="center" %}
 
-{% include feature_row %}
-
 {% include feature_row id="feature_speaking" type="center" %}
+
+{% include feature_row %}
 
 {% include feature_row id="feature_gde_badges" type="center" %}
