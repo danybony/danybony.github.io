@@ -1,5 +1,11 @@
 - year: 2025
   events:
+    - title: "GDG Korea Android meetup"
+      date: "September 2026"
+      description: 'The Good Stuff, Not the Slop: Engineering High-Quality Android Apps with Modern AI Tooling<br><a href="https://speakerdeck.com/danybony/the-good-stuff-not-the-slop-engineering-high-quality-android-apps-with-modern-ai-tooling" target="_blank">Slides</a>'
+      location: "Seoul, South Korea"
+      lat: 37.5385
+      lon: 126.9913
     - title: "DevFest Pescara 2025"
       date: "November 2025"
       description: "Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta"
