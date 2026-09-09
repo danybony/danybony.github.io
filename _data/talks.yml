@@ -1,4 +1,4 @@
-- year: 2025
+- year: 2026
   events:
     - title: "GDG Korea Android meetup"
       date: "September 2026"
@@ -6,6 +6,8 @@
       location: "Seoul, South Korea"
       lat: 37.5385
       lon: 126.9913
+- year: 2025
+  events:
     - title: "DevFest Pescara 2025"
       date: "November 2025"
       description: "Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta"
