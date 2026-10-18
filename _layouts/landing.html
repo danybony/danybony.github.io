@@ -1,0 +1,114 @@
+---
+layout: default
+---
+
+{% assign hero = page.hero %}
+<section class="landing-hero">
+  <div class="container landing-hero__inner">
+    <div class="landing-hero__text">
+      {% if hero.eyebrow %}<p class="eyebrow">{{ hero.eyebrow }}</p>{% endif %}
+      <h1 class="landing-hero__title">{{ hero.title | default: page.title }}</h1>
+      {% if hero.tagline %}<p class="landing-hero__tagline">{{ hero.tagline }}</p>{% endif %}
+      {% if hero.intro %}<div class="landing-hero__intro">{{ hero.intro | markdownify }}</div>{% endif %}
+      <div class="landing-hero__actions">
+        {% for action in hero.actions %}
+          <a class="btn{% if forloop.first %} btn--primary{% endif %}" href="{{ action.url | relative_url }}">{{ action.label }}</a>
+        {% endfor %}
+      </div>
+      {% include social-links.html class="social--hero" %}
+    </div>
+    <div class="landing-hero__visual">
+      <div class="portrait">
+        <img src="{{ hero.image | default: site.author.avatar | relative_url }}" alt="{{ site.author.name }}" width="512" height="512">
+      </div>
+      {% if hero.badge %}
+        <img class="landing-hero__badge" src="{{ hero.badge.image | relative_url }}" alt="{{ hero.badge.alt }}" width="1000" height="356">
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{% if page.focus %}
+<section class="section">
+  <div class="container">
+    <header class="section__header">
+      <p class="eyebrow">{{ page.focus_eyebrow | default: 'What I do' }}</p>
+      <h2>{{ page.focus_title }}</h2>
+    </header>
+
+    {% assign talk_count = 0 %}
+    {% assign talk_countries = '' %}
+    {% for year_group in site.data.talks %}
+      {% assign talk_count = talk_count | plus: year_group.events.size %}
+      {% for event in year_group.events %}
+        {% assign country = event.location | split: ', ' | last %}
+        {% unless country == 'Online' %}{% assign talk_countries = talk_countries | append: country | append: '|' %}{% endunless %}
+      {% endfor %}
+    {% endfor %}
+    {% assign country_count = talk_countries | split: '|' | uniq | size %}
+    {% assign first_talk_year = site.data.talks | last %}
+
+    <div class="bento">
+      {% for f in page.focus %}
+        <{% if f.url %}a href="{% if f.url contains '://' %}{{ f.url }}{% else %}{{ f.url | relative_url }}{% endif %}"{% else %}div{% endif %} class="card bento__item{% if f.wide %} bento__item--wide{% endif %}{% if f.icon %} bento__item--icon{% endif %}">
+          {% if f.image_path %}
+            <div class="bento__media"><img src="{{ f.image_path | relative_url }}" alt="{{ f.alt | escape }}" loading="lazy"></div>
+          {% endif %}
+          {% if f.icon %}<span class="bento__icon"><i class="{{ f.icon }}" aria-hidden="true"></i></span>{% endif %}
+          <div class="bento__body">
+            <h3>{{ f.title }}</h3>
+            {% if f.excerpt %}<p>{{ f.excerpt }}</p>{% endif %}
+            {% if f.stats == 'talks' %}
+              <dl class="stats">
+                <div><dt>Talks</dt><dd>{{ talk_count }}</dd></div>
+                <div><dt>Countries</dt><dd>{{ country_count }}</dd></div>
+                <div><dt>Since</dt><dd>{{ first_talk_year.year }}</dd></div>
+              </dl>
+            {% endif %}
+            {% if f.url %}<span class="bento__more">{{ f.btn_label | default: 'Learn more' }} <span aria-hidden="true">→</span></span>{% endif %}
+          </div>
+        </{% if f.url %}a{% else %}div{% endif %}>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{% if page.photography %}
+<section class="section">
+  <div class="container">
+    <header class="section__header">
+      <p class="eyebrow">{{ page.photography_eyebrow | default: 'Photography' }}</p>
+      <h2>{{ page.photography_title }}</h2>
+      {% if page.photography_intro %}<p class="section__intro">{{ page.photography_intro }}</p>{% endif %}
+    </header>
+    <div class="photo-strip">
+      {% for p in page.photography %}
+        <figure class="photo-tile">
+          <img src="{{ p.image_path | relative_url }}" alt="{{ p.alt | escape }}" loading="lazy">
+          <figcaption>{{ p.title }}</figcaption>
+        </figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="section">
+  <div class="container">
+    <header class="section__header section__header--row">
+      <div>
+        <p class="eyebrow">Blog</p>
+        <h2>Latest posts</h2>
+      </div>
+      <a class="btn btn--ghost" href="{{ '/blog/' | relative_url }}">All posts <span aria-hidden="true">→</span></a>
+    </header>
+    <div class="post-grid post-grid--three">
+      {% for post in site.posts limit: 3 %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{{ content }}

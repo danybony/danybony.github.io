@@ -7,12 +7,8 @@
 
 # Theme Settings
 #
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-#theme                   : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# The site uses its own lightweight theme (see _layouts, _includes and assets/css/main.scss),
+# with automatic light/dark mode and a manual toggle in the header.
 
 # Site Settings
 locale                   : "en"
@@ -108,60 +104,27 @@ author:
   bio              : "Android developer, Google Developer Expert, photographer, traveler."
   location         : "Milan, Italy"
   email            :
+  # Social links, shown in the header of the home page, in the author card and in the footer.
+  # Icons are Font Awesome 6 classes: https://fontawesome.com/search?o=r&m=free&f=brands
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/danybony_"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://androiddev.social/@daniele"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/danielebonaldo"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/danybony"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/danybony_"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/danielebonaldo"
-
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square icon-footer"
-      url: "https://twitter.com/danybony_"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon icon-footer"
+      icon: "fa-brands fa-mastodon"
       url: "https://androiddev.social/@daniele"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Twitter"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://twitter.com/danybony_"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram icon-footer"
+      icon: "fa-brands fa-instagram"
       url: "https://instagram.com/danybony_"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin icon-footer"
-      url: "https://www.linkedin.com/in/danielebonaldo"
+    - label: "Speaker Deck"
+      icon: "fa-brands fa-speaker-deck"
+      url: "https://speakerdeck.com/danybony/"
 
 
 # Reading Files
@@ -195,6 +158,12 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - serve.sh
+  - banner.js
+  - staticman.yml
+  - minimal-mistakes-jekyll.gemspec
+  - CHANGELOG.md
+  - README.md
 keep_files:
   - .git
   - .svn
@@ -230,8 +199,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show (the blog lists all posts on a single page)
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -242,7 +211,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -280,14 +248,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
 
 
 # Defaults

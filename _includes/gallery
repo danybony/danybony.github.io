@@ -4,29 +4,17 @@
   {% assign gallery = page.gallery %}
 {% endif %}
 
-{% if include.layout %}
-  {% assign gallery_layout = include.layout %}
-{% else %}
-  {% if gallery.size == 2 %}
-    {% assign gallery_layout = 'half' %}
-  {% elsif gallery.size >= 3 %}
-    {% assign gallery_layout = 'third' %}
-  {% else %}
-    {% assign gallery_layout = '' %}
-  {% endif %}
-{% endif %}
-
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<figure class="gallery gallery--{{ include.layout | default: 'grid' }}{% if include.class %} {{ include.class }}{% endif %}">
   {% for img in gallery %}
     {% if img.url %}
-      <a href="{{ img.url | relative_url }}"
-        {% if img.title %}title="{{ img.title }}"{% endif %}>
-          <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      <a class="gallery__item" href="{{ img.url | relative_url }}" data-lightbox-group="gallery"{% if img.title %} data-caption="{{ img.title | escape }}"{% endif %}>
+        <img src="{{ img.image_path | relative_url }}" alt="{{ img.alt | default: img.title | escape }}" loading="lazy">
+        {% if img.title %}<span class="gallery__caption">{{ img.title }}</span>{% endif %}
       </a>
     {% else %}
-      <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      <span class="gallery__item">
+        <img src="{{ img.image_path | relative_url }}" alt="{{ img.alt | default: img.title | escape }}" loading="lazy">
+      </span>
     {% endif %}
   {% endfor %}
   {% if include.caption %}

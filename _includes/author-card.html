@@ -1,0 +1,9 @@
+<aside class="author-card{% if include.class %} {{ include.class }}{% endif %}" itemscope itemtype="https://schema.org/Person">
+  <img class="author-card__avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" itemprop="image" width="96" height="96">
+  <div class="author-card__body">
+    {% unless include.hide_name %}<p class="author-card__name" itemprop="name">{{ site.author.name }}</p>{% endunless %}
+    <p class="author-card__bio" itemprop="description">{{ site.author.bio }}</p>
+    <p class="author-card__location"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ site.author.location }}</p>
+    {% include social-links.html %}
+  </div>
+</aside>

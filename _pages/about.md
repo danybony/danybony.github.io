@@ -4,7 +4,7 @@ layout: single
 excerpt: "Some info about Daniele."
 sitemap: false
 permalink: /about.html
-author_profile: true
+profile_header: true
 ---
 
 I am passionate about technology, I work as an Android consultant and I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-daniele-bonaldo).

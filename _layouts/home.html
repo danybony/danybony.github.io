@@ -1,22 +1,24 @@
 ---
-layout: archive
+layout: default
 ---
 
-{{ content }}
+<section class="container">
+  <header class="page-intro">
+    <p class="eyebrow">{{ page.eyebrow | default: 'Blog' }}</p>
+    <h1>{{ page.title | default: 'Blog' }}</h1>
+    {% if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+  </header>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  {{ content }}
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
   {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type="list_teaser" %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+  <div class="post-grid">
+    {% for post in posts %}
+      {% if forloop.first %}
+        {% include post-card.html post=post featured=true %}
+      {% else %}
+        {% include post-card.html post=post %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

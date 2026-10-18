@@ -1,0 +1,7 @@
+<ul class="social{% if include.class %} {{ include.class }}{% endif %}">
+  {% for link in site.author.links %}
+    {% if link.url %}
+      <li><a href="{{ link.url }}" rel="me noopener" target="_blank" aria-label="{{ link.label }}" title="{{ link.label }}"><i class="{{ link.icon }}" aria-hidden="true"></i></a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
