@@ -2,7 +2,7 @@
   events:
     - title: "DevFest Venezia 2026"
       date: "October 2026"
-      description: 'Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta'
+      description: "Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta"
       location: "Venezia, Italy"
       lat: 45.4693719
       lon: 12.235379
