@@ -1,5 +1,15 @@
 - year: 2026
   events:
+    - title: "DevFest Venezia 2026"
+      date: "October 2026"
+      description: 'Costruisci il tuo Neuralizzatore: Android e Arduino per un'arma segreta'
+      location: "Venezia, Italy"
+      lat: 45.4693719
+      lon: 12.235379
+    - title: "Master di II Livello “Esercizio Fisico come Medicina: la prescrizione, dalla teoria alla pratica”"
+      date: "October 2026"
+      description: 'Intelligenza Artificiale, Dispositivi Wearable e Prescrizione dell'Esercizio: Tecnologie Applicate nella Medicina dello Sport'
+      location: "Online"
     - title: "GDG Korea Android meetup"
       date: "September 2026"
       description: 'The Good Stuff, Not the Slop: Engineering High-Quality Android Apps with Modern AI Tooling<br><a href="https://speakerdeck.com/danybony/the-good-stuff-not-the-slop-engineering-high-quality-android-apps-with-modern-ai-tooling" target="_blank">Slides</a>'
